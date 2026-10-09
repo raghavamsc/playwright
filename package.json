@@ -1,0 +1,21 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "my Playwright Project",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghavamsc/playwright.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/raghavamsc/playwright/issues"
+  },
+  "homepage": "https://github.com/raghavamsc/playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^26.6.4"
+  }
+}
